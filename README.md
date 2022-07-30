@@ -1,6 +1,6 @@
 # CricketScoreBoard
 
-#### Scalable/maintainable/extensible/modular/object oriented implementation of Cricket Batting Scoreboard System Design in Java
+#### Scalable/maintainable/extensible/modular/object oriented implementation of Cricket Batting Scoreboard in Java
 
 A cricket scorecard that shows the score for a team along with score of each player.
 
