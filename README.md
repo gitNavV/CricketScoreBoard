@@ -29,6 +29,7 @@ tried to complete the bare minimum only.
 The code is readable, maintainable and object oriented. It is written in a modular and
 extensible way, to add new features if needed.
 
+Sample input and output below:
 <img width="426" alt="Screenshot 2022-07-30 at 8 54 58 PM" src="https://user-images.githubusercontent.com/6997802/181922447-d75e2a73-7798-430f-97d9-b41014080433.png">
 
 <img width="288" alt="Screenshot 2022-07-30 at 8 55 57 PM" src="https://user-images.githubusercontent.com/6997802/181922621-0e020a16-b42d-479d-9913-5bbb110d26cc.png">
